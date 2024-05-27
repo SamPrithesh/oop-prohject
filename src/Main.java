@@ -5,6 +5,8 @@ public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
+        //jjjjk
+
         System.out.println("what is the boyfriends name");
         String name1=scan.next();
 
