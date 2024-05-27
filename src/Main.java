@@ -4,8 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-
-        System.out.println("hiii");
+        kkl
 
 
         System.out.println("what is the boyfriends name");
